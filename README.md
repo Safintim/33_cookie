@@ -1,22 +1,16 @@
-# Frontend for SPA «ПомойАвто»
+# Фронтенд для SPA «ПомойАвто»
 
-It is a frontend for single page application. Reach JavaScript is present.
+Фронтенд для одностраничного приложения.
 
-# Deploy on localhost
-
-Example of frontend launch on Linux, Python 3.5:
+## Запустить локально
 
 ```bash
 cd static/
-python3 -m http.server
+python3 -m http.server 9000
 ```
 
-Open page [127.0.0.1:8000](http://127.0.0.1:8000) in browser.
+Открыть страницу [localhost:9000](http://localhost:9000) в браузере.
 
-# Deploy on production server
+## Цели проекта
 
-[TODO. Deploy scripts will written later]
-
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Код создан в учебных целях. В рамках учебного курса по веб-разработке - [DEVMAN.org](https://devman.org)
